@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Database Management Systems — Practical Experiments</strong>
   <br>
-  A collection of DBMS laboratory experiments covering database design, ER modeling, and SQL practice.
+  A collection of DBMS laboratory experiments covering database design, ER modeling, and SQL practice for lab experiments 
 </p>
 
 <p align="center">
